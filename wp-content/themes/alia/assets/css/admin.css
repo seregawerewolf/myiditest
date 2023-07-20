@@ -1,0 +1,306 @@
+.notice.alia-update {
+    padding: 36px 22px 30px;
+}
+.notice.alia-update h2 {
+	font-weight: bold;
+	margin-bottom: 6px;
+	color: #222;
+	font-size: 19px;
+}
+.notice.alia-update .about-description {
+    font-size: 15px;
+    line-height: 23px;
+    color: #4c4c4c;
+    margin: 0;
+}
+
+.notice.alia-update .welcome-panel-content {
+	margin-bottom: 16px;
+}
+
+.notice.alia-update .welcome-panel-column p {
+	font-size: 14px;
+	margin-top: 2px;
+	    margin-bottom: 2px;
+}
+
+.notice.alia-update .welcome-panel-column a {
+	margin-right: 6px;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.notice.alia-update .rate_stars {
+	margin-top: 2px;
+}
+
+.notice.alia-update .rate_stars .dashicons {
+	color: #fdc42d;
+}
+
+.notice.alia-update .welcome-panel-column {
+	width: 50%;
+	padding: 12px 0;
+}
+
+.notice.alia-update .welcome-panel-column:first-child {
+	width: 50%;
+}
+
+.alia_post_option_item option {
+	padding: 5px 20px;
+}
+
+
+h1, h2, h3, h4, h5, h6, .title, .text_logo, .comment-reply-title, .header_square_logo a.square_letter_logo {
+    font-family: 'Poppins', sans-serif;
+}
+
+.editor-post-title__block .editor-post-title__input {
+	margin-top: 0;
+	margin-bottom: 14px;
+	font-size: 23px;
+	line-height: 1.45em;
+	letter-spacing: 0.4px;
+	font-family: 'Poppins', sans-serif;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+.wp-block {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.7em;
+  /*letter-spacing: -0.025em;*/
+  color: #222;
+  background-color: #fff;
+  margin: 0 auto;
+  visibility: visible!important;
+  -webkit-font-smoothing: antialiased;
+	max-width: 880px;
+}
+
+
+.wp-block h1 {
+  font-size: 27px;
+  line-height: 40px;
+  margin-top: 56px;
+}
+
+.wp-block h2 {
+  font-size: 24px;
+  line-height: 36px;
+  margin-top: 56px;
+}
+
+.wp-block h3 {
+  font-size: 21px;
+  line-height: 33px;
+  margin-top: 56px;
+}
+
+.wp-block h4 {
+  font-size: 18px;
+  line-height: 28px;
+  margin-top: 36px;
+}
+
+.wp-block h5 {
+  font-size: 16px;
+  line-height: 25px;
+  margin-top: 36px;
+}
+
+.wp-block h6 {
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 36px;
+}
+
+.wp-block-separator {
+	border-color: #e0e0e0;
+}
+
+.wp-block pre {
+    background: #f5f5f5;
+    font-family: "Courier 10 Pitch", Courier, monospace;
+    font-size: 15px;
+    font-size: 0.9375rem;
+    line-height: 1.6;
+    margin-bottom: 1.6em;
+    max-width: 100%;
+    overflow: auto;
+    padding: 1.6em;
+    border-radius: 4px;
+    white-space: pre;
+}
+
+.wp-block pre.wp-block-verse {
+    white-space: nowrap;
+    overflow: auto;
+}
+
+.block-library-list .editor-rich-text__tinymce, .block-library-list .editor-rich-text__tinymce ol, .block-library-list .editor-rich-text__tinymce ul {
+	padding-left: 0;
+
+}
+
+.wp-block table, .wp-block td .wp-block-table__cell-content, .wp-block th, .wp-block caption {
+  border: 1px solid #ddd;
+}
+
+.wp-block table {
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.widget_calendar table, .widget_calendar table, .widget_calendar td, .widget_calendar th, .widget_calendar caption, .wp-block-table td, .wp-block-table th {
+  border: none;
+}
+
+.wp-block table a {
+  color: inherit;
+}
+
+.wp-block table a:hover {
+  border-bottom: 1px dotted #333;
+}
+
+.wp-block table th {
+    text-align: left;
+    vertical-align: top;
+}
+
+.wp-block-table__cell-content {
+	 padding: 8px;
+	 margin: 1.5px;
+    line-height: 20px !important;
+}
+
+
+.block-editor .wp-block-latest-posts {
+	padding-left: 19px;
+}
+
+.wp-block a {
+	color: #ff374a;
+	text-decoration: none;
+}
+
+
+
+
+/* --------
+start .mce-content-body blockquote
+------------------------------------------- */
+blockquote,
+.wp-block-quote {
+	position: relative;
+	margin-top: 59px;
+	margin-bottom: 40px;
+	font-style: italic;
+	padding-left: 24px;
+	font-size: 19px !important;
+	line-height: 1.55em;
+	color: #000;
+	font-family: Georgia, "Times New Roman";
+	margin-left: 0;
+	padding-left: 0;
+	padding-right: 0;
+	margin-right: 0;
+	font-weight: bold;
+}
+
+blockquote:before,
+.wp-block-quote:before {
+	content: "\201C";
+    position: absolute;
+    left: -46px;
+    top: 12px;
+    font-size: 58px;
+    color: #e8e8e8;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-style: initial;
+}
+
+blockquote cite,
+.wp-block-quote__citation,
+.wp-block-quote cite, .wp-block-quote footer,
+.wp-block-pullquote__citation, .wp-block-pullquote cite,
+.wp-block-pullquote footer {
+    font-style: normal;
+    clear: both;
+    display: block;
+    font-size: 15px;
+    letter-spacing: -0.5px;
+    font-weight: lighter !important;
+    margin-top: 14px;
+    margin-bottom: 0;
+    line-height: 28px;
+    color: #a9a9a9 !important;
+    font-style: italic;
+		text-transform: none;
+}
+
+.wp-block-pullquote p,
+.wp-block-pullquote blockquote>.editor-rich-text p {
+    font-size: 19px;
+    line-height: 1.55em;
+}
+
+blockquote.pull-left, blockquote.pull-right {
+    border-left: 0;
+    border-right: 0;
+}
+
+blockquote.pull-right:before {
+    content: "\f10e";
+    left: auto;
+    right: 0;
+}
+
+.wp-block-quote:not(.is-large):not(.is-style-large) {
+    border-left: none;
+    padding-left: 0;
+}
+
+blockquote p {
+	font-family: Georgia, "Times New Roman";
+	margin-top: 3px;
+    margin-bottom: 3px;
+}
+/* --------
+end .mce-content-body blockquote
+------------------------------------------- */
+
+.mce-content-body blockquote.alignleft,
+figure.wp-caption.alignleft,
+img.alignleft {
+    margin-top: 4px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 0;
+}
+
+.editor-block-list__layout .editor-block-list__block[data-align=left] .editor-block-list__block-edit {
+    margin-right: 20px /*!rtl:end:ignore; */;
+}
+
+.editor-block-list__layout .editor-block-list__block[data-align=right] .editor-block-list__block-edit {
+    margin-left: 20px /*!rtl:end:ignore; */;
+}
+
+.block-editor .wp-block-categories ul {
+	padding-left: 19px;
+}
+
+.wp-block-pullquote {
+	border: none;
+}
+
+.editor-block-list__block[data-type="core/pullquote"] {
+	z-index: 1;
+}

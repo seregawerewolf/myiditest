@@ -1,0 +1,1029 @@
+# Copyright (C) 2015 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Alia\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/twentysixteen\n"
+"POT-Creation-Date: 2019-10-28 01:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Ahmad Works <talk@ahmad.works>\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: esc_attr_e;esc_attr__;__;_e;esc_html__;esc_html_e;_n:"
+"1,2;_x:1,2c;_ex:1,2c;_nx;_nx:1,2;_n_noop:1,2;esc_attr_x;esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc/extensions\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;"
+
+#: functions.php:111
+msgid "Could not read image size"
+msgstr ""
+
+#: functions.php:146
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:183
+msgid "Alia Core"
+msgstr ""
+
+#: functions.php:193
+msgid "Alia AMP"
+msgstr ""
+
+#: functions.php:203
+msgid "Envato Market"
+msgstr ""
+
+#: functions.php:213
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions.php:220
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:227
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:246
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:247
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:248
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:249
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:250
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:251
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:252
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:253
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:254
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:255
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:256
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:257
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:258
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:259
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:260
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:261
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:262
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:324
+msgid "Default sidebar"
+msgstr ""
+
+#: functions.php:326
+msgid ""
+"This is the default sidebar in your blog, add widgets here and it will "
+"appear on all pages have this sidebar."
+msgstr ""
+
+#: functions.php:334
+msgid "Intro Sidebar"
+msgstr ""
+
+#: functions.php:336
+msgid ""
+"This is intro sidebar, all content in this sidebar will appear in your "
+"homepage before blog posts."
+msgstr ""
+
+#: functions.php:344 footer.php:93
+msgid "Sliding Sidebar"
+msgstr ""
+
+#: functions.php:346
+msgid ""
+"This is the sliding sidebar, all the contents in this sidebar will appear in "
+"the sliding section activated by the triple bar hamburger icon in the main "
+"menu."
+msgstr ""
+
+#: functions.php:354
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:363
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:372
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: functions.php:1058
+msgid "Older Posts"
+msgstr ""
+
+#: functions.php:1064
+msgid "Newer Posts"
+msgstr ""
+
+#: functions.php:1362
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: functions.php:1478
+#, php-format
+msgid "%s URL"
+msgstr ""
+
+#: 404.php:9
+msgid "Sorry! Page not found."
+msgstr ""
+
+#: 404.php:12
+msgid ""
+"Nothing was found at this location. But we still have other interesting "
+"stuff for you!"
+msgstr ""
+
+#: index.php:13
+#, php-format
+msgid "Hi, I am %s"
+msgstr ""
+
+#: index.php:60
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: index.php:79 page-templates/page-blog-fullwidth.php:40
+#: page-templates/page-blog-firstflist.php:40
+#: page-templates/page-blog-grid3col.php:40
+#: page-templates/page-blog-fullsidebar.php:40
+#: page-templates/page-blog-gridsidebar.php:40
+#: page-templates/page-blog-list.php:39 page-templates/page-blog-grid.php:40
+#: page-templates/page-stories.php:15
+#, php-format
+msgid "%1$s Articles."
+msgstr ""
+
+#: header-searchform.php:2
+msgid "Hit enter to search"
+msgstr ""
+
+#: comments.php:23
+msgid "Save my name and email in this browser for the next time I comment."
+msgstr ""
+
+#: comments.php:30
+msgid "Name"
+msgstr ""
+
+#: comments.php:34
+msgid "Email"
+msgstr ""
+
+#: comments.php:56
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:57
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:60
+msgid "Write your comment"
+msgstr ""
+
+#: comments.php:66
+msgid "Comment as a guest."
+msgstr ""
+
+#: comments.php:88
+msgid "Reply"
+msgstr ""
+
+#: comments.php:94
+msgid "Previous"
+msgstr ""
+
+#: comments.php:95
+msgid "Next"
+msgstr ""
+
+#: comments.php:103
+msgid "Comments are closed."
+msgstr ""
+
+#: acceptcookies.php:41
+msgid "I Agree"
+msgstr ""
+
+#: footer.php:79
+msgid "Scroll To Top"
+msgstr ""
+
+#: footer.php:124 inc/customizer.php:1379
+msgid "Recent Stories"
+msgstr ""
+
+#: single.php:108 single.php:135
+msgid "Read Next"
+msgstr ""
+
+#: searchform.php:6
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "submit"
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:71
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer.php:87
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Social Settings"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Site Logo"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Retina Logo ( Double size as default logo )"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Logo Width (0 for auto width)"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid "Logo Height (0 for auto Height)"
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "Make logo image rounded"
+msgstr ""
+
+#: inc/customizer.php:244
+msgid ""
+"This option is useful if you upload your personal photo as a logo, but you "
+"need to upload a square image for the best result."
+msgstr ""
+
+#: inc/customizer.php:261
+msgid "Header background image"
+msgstr ""
+
+#: inc/customizer.php:279
+msgid "Show Top Header Area"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Show Logo in Site Header"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Show Description in Site Header"
+msgstr ""
+
+#: inc/customizer.php:348
+msgid "Show Site Title in Menu Area"
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "Show Dot after site title in header"
+msgstr ""
+
+#: inc/customizer.php:382
+msgid "Header Description"
+msgstr ""
+
+#: inc/customizer.php:383 inc/customizer.php:1403 inc/customizer.php:1421
+msgid "Allowed HTML Tags: a, em, br, strong, img, i."
+msgstr ""
+
+#: inc/customizer.php:411
+msgid "Code to add before </head> - ex. Google Analytics"
+msgstr ""
+
+#: inc/customizer.php:427
+msgid "Load fonts locally (recommended for performance)"
+msgstr ""
+
+#: inc/customizer.php:438
+msgid "Safe Sans-Serif Fonts"
+msgstr ""
+
+#: inc/customizer.php:440
+msgid "System UI Fonts"
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "Main Font"
+msgstr ""
+
+#: inc/customizer.php:471
+msgid "Titles Font"
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Site main color"
+msgstr ""
+
+#: inc/customizer.php:510
+msgid "Pagination Style"
+msgstr ""
+
+#: inc/customizer.php:515
+msgid "Older/Newer Links"
+msgstr ""
+
+#: inc/customizer.php:516
+msgid "Numerical"
+msgstr ""
+
+#: inc/customizer.php:531
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:536
+msgid "Full Width List"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "List"
+msgstr ""
+
+#: inc/customizer.php:538
+msgid "Full Width then List"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "2 Column Grid"
+msgstr ""
+
+#: inc/customizer.php:540
+msgid "3 Column Grid"
+msgstr ""
+
+#: inc/customizer.php:541
+msgid "Sidebar Default List"
+msgstr ""
+
+#: inc/customizer.php:542
+msgid "Sidebar Grid"
+msgstr ""
+
+#: inc/customizer.php:555
+msgid "Show Featured Post On First Page Only"
+msgstr ""
+
+#: inc/customizer.php:571
+msgid "Enable Masonry Effect on Grid Layouts"
+msgstr ""
+
+#: inc/customizer.php:585
+msgid "Enable Go To Top button"
+msgstr ""
+
+#: inc/customizer.php:601
+msgid "Show full content in homepage."
+msgstr ""
+
+#: inc/customizer.php:618
+msgid "Show border around excerpt of text only posts."
+msgstr ""
+
+#: inc/customizer.php:632
+msgid "Show small circle to indicate current menu"
+msgstr ""
+
+#: inc/customizer.php:650
+msgid "Stories slug at permalinks (Default is story)"
+msgstr ""
+
+#: inc/customizer.php:651
+#, php-format
+msgid ""
+"When changed/added, please go to <a href=\"%s\">Permalinks</a> to refresh "
+"links."
+msgstr ""
+
+#: inc/customizer.php:667
+msgid "Stories Page URL"
+msgstr ""
+
+#: inc/customizer.php:683
+msgid "Stories CDN URL"
+msgstr ""
+
+#: inc/customizer.php:684
+msgid ""
+"Add CDN URL if you want to load images from CDN like AWS, this cdn url will "
+"replace your site URL, don't use this option unless you know what you do."
+msgstr ""
+
+#: inc/customizer.php:700
+msgid "Show stories circles in author box"
+msgstr ""
+
+#: inc/customizer.php:719
+msgid "Disable rounded corners for images"
+msgstr ""
+
+#: inc/customizer.php:736
+msgid "Options related to Featured Images/Banners quality"
+msgstr ""
+
+#: inc/customizer.php:737
+msgid ""
+"Use <a target=\"_blank\" href=\"https://wordpress.org/plugins/regenerate-"
+"thumbnails/\">Regenerate Thumbnails</a> plugin after changing the options."
+msgstr ""
+
+#: inc/customizer.php:751
+msgid "Enable different sizes for different screens"
+msgstr ""
+
+#: inc/customizer.php:752
+msgid "Recommended for better performance and speed"
+msgstr ""
+
+#: inc/customizer.php:766
+msgid "Optimize Featured Images Quality to 100%"
+msgstr ""
+
+#: inc/customizer.php:767
+msgid "disable default Wordpress quality compressing action."
+msgstr ""
+
+#: inc/customizer.php:784
+msgid "Info shown in meta area"
+msgstr ""
+
+#: inc/customizer.php:785
+msgid ""
+"Select what information you want to show in meta area for posts & pages. "
+"Alia theme hide some info in narrow width layouts even if you enable them to "
+"keep the design clean."
+msgstr ""
+
+#: inc/customizer.php:799
+msgid "Author Avatar"
+msgstr ""
+
+#: inc/customizer.php:813
+msgid "Author Name"
+msgstr ""
+
+#: inc/customizer.php:827 inc/customizer.php:1048 inc/postoptions.php:139
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer.php:841
+msgid "Date"
+msgstr ""
+
+#: inc/customizer.php:866 inc/customizer.php:1089 inc/postoptions.php:197
+msgid "Post Layout"
+msgstr ""
+
+#: inc/customizer.php:871 inc/customizer.php:1094
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer.php:872 inc/customizer.php:1095 inc/postoptions.php:127
+#: inc/postoptions.php:203
+msgid "Sidebar Post"
+msgstr ""
+
+#: inc/customizer.php:888
+msgid "Show banner inside standard post"
+msgstr ""
+
+#: inc/customizer.php:907
+msgid "Crop featured image in posts lists"
+msgstr ""
+
+#: inc/customizer.php:924
+msgid "Crop featured image inside posts"
+msgstr ""
+
+#: inc/customizer.php:941
+msgid "Show meta info in posts"
+msgstr ""
+
+#: inc/customizer.php:958
+msgid "Show tags below post content"
+msgstr ""
+
+#: inc/customizer.php:975
+msgid "Show share buttons below post content"
+msgstr ""
+
+#: inc/customizer.php:992
+msgid "Show author box in posts"
+msgstr ""
+
+#: inc/customizer.php:1009
+msgid "Show next post"
+msgstr ""
+
+#: inc/customizer.php:1026
+msgid "Show related post"
+msgstr ""
+
+#: inc/customizer.php:1043
+msgid "Related Posts According to"
+msgstr ""
+
+#: inc/customizer.php:1049
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer.php:1050
+msgid "Author"
+msgstr ""
+
+#: inc/customizer.php:1064
+msgid "Allow counting post views for posts list order"
+msgstr ""
+
+#: inc/customizer.php:1110
+msgid "Show meta info in Pages"
+msgstr ""
+
+#: inc/customizer.php:1127
+msgid "Show share buttons below page content"
+msgstr ""
+
+#: inc/customizer.php:1144
+msgid "Show author box in pages"
+msgstr ""
+
+#: inc/customizer.php:1161
+msgid "Show wide text content for pages"
+msgstr ""
+
+#: inc/customizer.php:1186
+msgid "Add MailChimp Embeded Form Code"
+msgstr ""
+
+#: inc/customizer.php:1187
+msgid "For best results copy the naked code from MailChimp"
+msgstr ""
+
+#: inc/customizer.php:1204
+msgid "Load Facebook SDK"
+msgstr ""
+
+#: inc/customizer.php:1205
+msgid ""
+"You need to disable this option if you are using a plugin who already loads "
+"FB SDK, or you just don't want to use Facebook features."
+msgstr ""
+
+#: inc/customizer.php:1225
+msgid "Show Social Icons in Site Header"
+msgstr ""
+
+#: inc/customizer.php:1242
+msgid "Share buttons in blog lists"
+msgstr ""
+
+#: inc/customizer.php:1243
+msgid ""
+"Select which share buttons you want to show in blog lists in homepage and "
+"archives, try not to select to many buttons to keep your blog list clean."
+msgstr ""
+
+#: inc/customizer.php:1277
+msgid "Share buttons inside post"
+msgstr ""
+
+#: inc/customizer.php:1278
+msgid "Select which share buttons you want to show inside the blog post."
+msgstr ""
+
+#: inc/customizer.php:1317
+msgid "Add your social profiles links"
+msgstr ""
+
+#: inc/customizer.php:1356
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer.php:1360
+msgid "Show Stories Circles"
+msgstr ""
+
+#: inc/customizer.php:1363
+msgid "Show Custom Footer Content"
+msgstr ""
+
+#: inc/customizer.php:1366
+msgid "Static Footer Bar"
+msgstr ""
+
+#: inc/customizer.php:1384
+msgid "Sticky Footer Title"
+msgstr ""
+
+#: inc/customizer.php:1385
+msgid "Use title with 2 words only like Alia Stories"
+msgstr ""
+
+#: inc/customizer.php:1402
+msgid "Footer Custom Content"
+msgstr ""
+
+#: inc/customizer.php:1420
+msgid "Footer Credits Text"
+msgstr ""
+
+#: inc/customizer.php:1437
+msgid ""
+"Show a notice to tell site visitors that this site is using cookies, after "
+"you activate this option you still need to add cookies description text for "
+"notice to appear."
+msgstr ""
+
+#: inc/customizer.php:1451
+msgid "Show cookies box icon"
+msgstr ""
+
+#: inc/customizer.php:1465
+msgid "Cookies Font Awesome icon class"
+msgstr ""
+
+#: inc/customizer.php:1466
+msgid ""
+"If you want to change cookies icon, you can choose other icon from Font "
+"Awesome library and add the full class of desired icon here to replace it."
+msgstr ""
+
+#: inc/customizer.php:1480
+msgid "Cookies notice title"
+msgstr ""
+
+#: inc/customizer.php:1494
+msgid "Cookies notice description text"
+msgstr ""
+
+#: inc/customizer.php:1495
+msgid ""
+"This text is used to tell your visitors that this site is using cookies, "
+"Allowed HTML Tags: a, em, br, strong, img, i."
+msgstr ""
+
+#: inc/customizer.php:1509
+msgid "Cookies notice links area"
+msgstr ""
+
+#: inc/customizer.php:1510
+msgid ""
+"This text will appear just before the agree button to show your policies "
+"pages links, Allowed HTML Tags: a, em, br, strong, img, i."
+msgstr ""
+
+#: inc/customizer.php:1527
+msgid "Add custom code to footer"
+msgstr ""
+
+#: inc/postoptions.php:8
+#, php-format
+msgid "%s - Post Options."
+msgstr ""
+
+#: inc/postoptions.php:11
+#, php-format
+msgid "%s - Page Options."
+msgstr ""
+
+#: inc/postoptions.php:120
+msgid "Page Layout"
+msgstr ""
+
+#: inc/postoptions.php:125 inc/postoptions.php:201
+msgid "Same as site options"
+msgstr ""
+
+#: inc/postoptions.php:126 inc/postoptions.php:202
+msgid "Full Width"
+msgstr ""
+
+#: inc/postoptions.php:132
+msgid "All Categories"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width then List Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Grid Blog - 3 Columns"
+msgstr ""
+
+#. Name of the template
+msgid "Sidebar Default Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Sidebar Grid Blog"
+msgstr ""
+
+#. Name of the template
+msgid "List Blog"
+msgstr ""
+
+#. Name of the template
+msgid "Grid Blog - 2 Columns"
+msgstr ""
+
+#. Name of the template
+msgid "Stories Index"
+msgstr ""
+
+#: page-templates/page-stories.php:34
+msgid "Today"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:71
+#: inc/ajax-hits-counter/ajax-hits-counter.php:649
+msgid "Import from"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:72
+msgid "Imports views count (hits) from plugin"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:72
+msgid "to hits of"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:420
+msgid "Settings"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:431
+msgid "Don't Count Repeated Views."
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:437
+msgid "Don't count hits of admin users"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:517
+msgid "Views"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:631
+msgid "Views count"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:677
+#: inc/ajax-hits-counter/ajax-hits-counter.php:683
+#: inc/ajax-hits-counter/ajax-hits-counter.php:752
+msgid "We found"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:677
+#: inc/ajax-hits-counter/ajax-hits-counter.php:752
+msgid "no items"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:677
+#: inc/ajax-hits-counter/ajax-hits-counter.php:683
+#: inc/ajax-hits-counter/ajax-hits-counter.php:752
+msgid "to import from WP-PostViews plugin"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:678
+#: inc/ajax-hits-counter/ajax-hits-counter.php:753
+msgid "Have I hice day"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:683
+#: inc/ajax-hits-counter/ajax-hits-counter.php:745
+msgid "items"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:684
+msgid "To start import please click \"Start import\" button."
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:687
+msgid "Start import"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:745
+msgid "Imported"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:746
+msgid "inserted"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:746
+msgid "updated"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:746
+msgid "skipped"
+msgstr ""
+
+#: inc/ajax-hits-counter/ajax-hits-counter.php:747
+msgid "Thank you for choosing our plugin."
+msgstr ""
+
+#: template-parts/page/content-page.php:29
+#: template-parts/post/content-gallery.php:185
+#: template-parts/post/content-status.php:161
+#: template-parts/post/content.php:138 template-parts/post/content-aside.php:54
+#: template-parts/post/content-audio.php:145
+#: template-parts/post/content-video.php:152
+#: template-parts/post/content-image.php:138
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-gallery.php:180
+#: template-parts/post/content-gallery.php:235
+#: template-parts/post/content-status.php:156
+#: template-parts/post/content-status.php:211
+#: template-parts/post/content.php:133 template-parts/post/content.php:187
+#: template-parts/post/content-aside.php:49
+#: template-parts/post/content-aside.php:100
+#: template-parts/post/content-audio.php:140
+#: template-parts/post/content-audio.php:195
+#: template-parts/post/content-video.php:147
+#: template-parts/post/content-video.php:205
+#: template-parts/post/content-image.php:133
+#: template-parts/post/content-image.php:189
+msgid "Continue reading"
+msgstr ""
+
+#: template-parts/post/content-none.php:7
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post/content-none.php:13
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: template-parts/post/content-none.php:17
+msgid ""
+"Nothing was found at this page. But we still have other interesting stuff "
+"for you!"
+msgstr ""
+
+#. Name of the theme
+msgid "Alia"
+msgstr ""
+
+#. Description of the theme
+msgid "Minmal &amp; Clean Personal Blog WordPress Theme."
+msgstr ""
+
+#. URI of the theme
+msgid "#"
+msgstr ""
+
+#. Author of the theme
+msgid "Ahmad Works, Inc"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://ahmad.works/"
+msgstr ""

@@ -1,0 +1,996 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Iceberg 2.0\n"
+"POT-Creation-Date: 2019-11-15 15:11+0700\n"
+"PO-Revision-Date: 2019-11-15 15:14+0700\n"
+"Last-Translator: \n"
+"Language-Team: Nord Studio <nordthemes@gmail.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e;"
+"_x:1,2c;_nx:1,2,4c;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "Page not found"
+msgstr "Página não encontrada"
+
+#: 404.php:26
+msgid "Whoops!"
+msgstr "Ups!"
+
+#: 404.php:28
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Parece que nada foi encontrado neste sítio. Talvez uma pesquisa ajude."
+
+#: 404.php:32 template-parts/content-none.php:38
+msgid "Back To Homepage &rarr;"
+msgstr "Voltar para a página inicial &rarr;"
+
+#: classes/class-iceberg-category-form-fields-setup.php:41
+#: classes/class-iceberg-category-form-fields-setup.php:54
+msgid "Color"
+msgstr "Cor"
+
+#: comments.php:26
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Um pensamento em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensamentos em &ldquo;%2$s&rdquo;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários mais antigos"
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "Comentários mais recentes &rarr;"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:67
+msgid "Comment"
+msgstr "Comentário"
+
+#: functions.php:60
+msgid "Primary Navigation"
+msgstr "Menu primário"
+
+#: functions.php:199
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:204
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:209
+msgctxt "Open Sans font: on or off"
+msgid "off"
+msgstr "off"
+
+#: functions.php:214
+msgctxt "Cairo font: on or off"
+msgid "off"
+msgstr "off"
+
+#: functions.php:219
+msgctxt "Rubik font: on or off"
+msgid "off"
+msgstr "off"
+
+#: functions.php:224
+msgctxt "M PLUS 1p font: on or off"
+msgid "off"
+msgstr "off"
+
+#: functions.php:229
+msgctxt ""
+"Add new subset (greek, cyrillic, devanagari, vietnamese, arabic, hebrew, "
+"japanese)"
+msgid "no-subset"
+msgstr "no-subset"
+
+#: functions.php:715
+msgid "Widget Area"
+msgstr "Área de Widgets"
+
+#: functions.php:717
+msgid "Add widgets here to appear in sidebar"
+msgstr "Adicione widgets aqui para aparecerem na sua barra lateral."
+
+#: functions.php:738
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Pesquisar &hellip;"
+
+#: functions.php:738
+msgctxt "title tag"
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: functions.php:823
+msgid "Name"
+msgstr "Nome"
+
+#: functions.php:828
+msgid "Email"
+msgstr "E-mail"
+
+#: functions.php:833
+msgid "Website"
+msgstr "Site"
+
+#: functions.php:846
+msgid "Category:"
+msgstr "Categoria:"
+
+#: functions.php:850
+msgid "Author:"
+msgstr "Autor:"
+
+#: image.php:52 template-parts/content-gallery.php:79
+#: template-parts/content-page-gallery.php:38
+#: template-parts/content-page-video.php:27 template-parts/content-page.php:23
+#: template-parts/content-video.php:58 template-parts/content.php:59
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: image.php:65
+msgid "&larr; Previous Image"
+msgstr "&larr; Imagem anterior"
+
+#: image.php:66
+msgid "Next Image &rarr;"
+msgstr "Imagem seguinte &rarr;"
+
+#: inc/customizer.php:21
+msgid "Site Description"
+msgstr "Descrição Site"
+
+#: inc/customizer.php:44
+msgid "Display Site Title"
+msgstr "Mostrar Título do Site"
+
+#: inc/customizer.php:62
+msgid "Tagline"
+msgstr "O texto sob o nome do sítio"
+
+#: inc/customizer.php:63 inc/customizer.php:673
+msgid ""
+"You may use these HTML tags and attributes: a[href,title,target], strong, b, "
+"em, i, p, span, br, img[src,title,alt]"
+msgstr ""
+"Você deve usar HTML Tópicos e atributos: a[href,title,target], strong, b, "
+"em, i, p, span, br, img[src,title,alt]"
+
+#: inc/customizer.php:84
+msgid "Size"
+msgstr "Tamanho"
+
+#: inc/customizer.php:104
+msgid "Margin Bottom"
+msgstr "Margem inferior"
+
+#: inc/customizer.php:117
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer.php:133 inc/customizer.php:208
+msgid "Sidebar"
+msgstr "Localização barra lateral"
+
+#: inc/customizer.php:136
+msgid "Right (default)"
+msgstr "Direita (padrão)"
+
+#: inc/customizer.php:136
+msgid "Left (default)"
+msgstr "Esquerda (padrão)"
+
+#: inc/customizer.php:137
+msgid "Left"
+msgstr "Esquerda"
+
+#: inc/customizer.php:137
+msgid "Right"
+msgstr "Direita"
+
+#: inc/customizer.php:147
+msgid "Colors"
+msgstr "Cores"
+
+#: inc/customizer.php:152 inc/customizer.php:227
+msgid "Background"
+msgstr "Cor de fundo"
+
+#: inc/customizer.php:160
+msgid "Site Identity"
+msgstr "Identidade do site"
+
+#: inc/customizer.php:179
+msgid "Site Title"
+msgstr "Titulo do site"
+
+#: inc/customizer.php:199
+msgid "Social Icons"
+msgstr "Ícones Sociais"
+
+#: inc/customizer.php:247
+msgid "Divider"
+msgstr "Divisória"
+
+#: inc/customizer.php:267
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer.php:287
+msgid "Headings"
+msgstr "Títulos"
+
+#: inc/customizer.php:307 inc/customizer.php:355
+msgid "Links"
+msgstr "Ligações"
+
+#: inc/customizer.php:327 inc/customizer.php:375
+msgid "Links (hover)"
+msgstr "Ligações (hover)"
+
+#: inc/customizer.php:336
+msgid "Content Area"
+msgstr "Área de Conteúdo"
+
+#: inc/customizer.php:395
+msgid "Buttons"
+msgstr "Botões"
+
+#: inc/customizer.php:415
+msgid "Buttons (hover)"
+msgstr "Botões (hover)"
+
+#: inc/customizer.php:435
+msgid "Buttons Text"
+msgstr "Texto dos Botões"
+
+#: inc/customizer.php:455
+msgid "Category"
+msgstr "Categoria"
+
+#: inc/customizer.php:464
+msgid "Other Colors"
+msgstr "Outras Cores"
+
+#: inc/customizer.php:482
+msgid "Preloader"
+msgstr "Preloader"
+
+#: inc/customizer.php:502
+msgid "Text Selection"
+msgstr ""
+
+#: inc/customizer.php:514
+msgid "Titles & Headings"
+msgstr "Títulos e nomes"
+
+#: inc/customizer.php:528
+msgid "Sticky post"
+msgstr "Artigo Fixo"
+
+#: inc/customizer.php:530
+msgid "Default: &laquo;Featured&raquo;"
+msgstr "Padrão: &laquo;Em destaque&raquo;"
+
+#: inc/customizer.php:544
+msgid "Read More"
+msgstr "Leia Mais"
+
+#: inc/customizer.php:546
+msgid "Default: &laquo;Read More&raquo;"
+msgstr "Padrão: &laquo;Leia Mais&raquo;"
+
+#: inc/customizer.php:554
+msgid "Post Options"
+msgstr "Opções do Artigo"
+
+#: inc/customizer.php:568
+msgid "Display categories"
+msgstr "Mostrar Categorias"
+
+#: inc/customizer.php:582
+msgid "Display post date"
+msgstr "Mostrar a data"
+
+#: inc/customizer.php:596
+msgid "Display tags list"
+msgstr "Mostrar tags"
+
+#: inc/customizer.php:610 inc/customizer.php:647
+msgid "Display share buttons"
+msgstr "Mostrar Botões de Compartilhamento"
+
+#: inc/customizer.php:624
+msgid "Display author"
+msgstr "Mostrar Autor"
+
+#: inc/customizer.php:633
+msgid "Page Options"
+msgstr "Opções da página"
+
+#: inc/customizer.php:656
+msgid "Footer"
+msgstr "Rodapé"
+
+#: inc/customizer.php:672
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer.php:683
+msgid "Other Options"
+msgstr "Outras Opções"
+
+#: inc/customizer.php:697
+msgid "Show preloader"
+msgstr "Mostrar carregando"
+
+#: inc/template-tags.php:119
+#, php-format
+msgctxt "Post date"
+msgid "Posted on %s"
+msgstr "Publicado a %s"
+
+#: inc/template-tags.php:126
+#, php-format
+msgctxt "Post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+#: inc/tgmpa/class-tgm-plugin-activation.php:912
+#: inc/tgmpa/class-tgm-plugin-activation.php:2618
+#: inc/tgmpa/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#: inc/tgmpa/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1019
+#: inc/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1206
+#: inc/tgmpa/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:62
+msgid "Nord Recent Posts Widget"
+msgstr "Nord Recent Posts Widget"
+
+#: inc/tgmpa/tgmpa.php:73
+msgid "Nord Share and Follow Buttons"
+msgstr "Nord Share and Follow Buttons"
+
+#: inc/tgmpa/tgmpa.php:84
+msgid "Smash Balloon Social Photo Feed (Instagram)"
+msgstr "Smash Balloon Social Photo Feed (Instagram)"
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados da Pesquisa por: %s"
+
+#: single.php:25
+msgid "You might also like"
+msgstr "Você também pode gostar"
+
+#: single.php:39
+msgid "Next post"
+msgstr "Artigo seguinte"
+
+#: single.php:41
+msgid "Previous post"
+msgstr "Artigo anterior"
+
+#: template-parts/author-bio.php:12
+#, php-format
+msgid "Published by %s"
+msgstr "Publicado por %s"
+
+#: template-parts/author-bio.php:30
+#, php-format
+msgid "View all posts by %s &rarr;"
+msgstr "Ver todos os artigos de %s &rarr;"
+
+#: template-parts/content-gallery.php:47 template-parts/content-video.php:26
+#: template-parts/content.php:27
+msgid "Categories"
+msgstr "Categorias"
+
+#: template-parts/content-gallery.php:76 template-parts/content-video.php:55
+#: template-parts/content.php:56
+msgid "Continue reading"
+msgstr "Continuar a ler"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Não foi encontrado nada"
+
+#: template-parts/content-none.php:27
+msgid "Ready to publish your first post?"
+msgstr "A postos para publicar o seu primeiro artigo?"
+
+#: template-parts/content-none.php:27
+msgid "Get started here"
+msgstr "Comece aqui"
+
+#: template-parts/content-none.php:32
+msgid "No Results Found"
+msgstr "Não foram encontrados resultados"
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Pedimos desculpa, mas nada correspondeu aos seus critérios de procura. Por "
+"favor volte a tentar com palavras-chave diferentes."
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que não foi possível encontrar o que procurava. Talvez uma pesquisa "
+"ajude."
+
+#~ msgctxt "Nunito font: on or off"
+#~ msgid "on"
+#~ msgstr "on"
+
+#~ msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+#~ msgid "no-subset"
+#~ msgstr "no-subset"
+
+#~ msgid "Post author"
+#~ msgstr "Autor do artigo"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Google Plus"
+#~ msgstr "Google Plus"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Vkontakte"
+#~ msgstr "Vkontakte"
+
+#~ msgid "Dribbble"
+#~ msgstr "Dribbble"
+
+#~ msgid "Behance"
+#~ msgstr "Behance"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+#~ msgid "Github"
+#~ msgstr "Github"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "SoundCloud"
+#~ msgstr "SoundCloud"
+
+#~ msgid "Previous Image"
+#~ msgstr "Imagem anterior"
+
+#~ msgid "Next Image"
+#~ msgstr "Imagem seguinte"
+
+#~ msgid "Logo Image"
+#~ msgstr "Imagem da Logo"
+
+#~ msgid "Max width (px)"
+#~ msgstr "Largura Máxima (px)"
+
+#~ msgid "Margin bottom (px)"
+#~ msgstr "Margem inferior (px)"
+
+#~ msgid "Rounded (recomended for square images)"
+#~ msgstr "Arredondado (recomendado para imagens quadrados)"
+
+#~ msgid "Link color"
+#~ msgstr "Cor dos Links"
+
+#~ msgid "Link color on hover"
+#~ msgstr "Cor do Link quando passa o mouse sobre"
+
+#~ msgid "Button Color"
+#~ msgstr "Cor do Botão"
+
+#~ msgid "Button Color on Hover"
+#~ msgstr "Cor do Botão quando passa o mouse sobre"
+
+#~ msgid "Button Text Color"
+#~ msgstr "Cor do Texto do Botão"
+
+#~ msgid "Category color"
+#~ msgstr "Cor da categoria"
+
+#~ msgid "Social Profiles"
+#~ msgstr "Perfis Sociais"
+
+#~ msgid "Bloglovin"
+#~ msgstr "Bloglovin"
+
+#~ msgid "500px"
+#~ msgstr "500px"
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgid "Rss"
+#~ msgstr "Rss"
+
+#~ msgid "Share Buttons"
+#~ msgstr "Botões de Compartilhamento"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS Personalizado"
+
+#~ msgid "Featured"
+#~ msgstr "Em destaque"
+
+#~ msgid "Share"
+#~ msgstr "Partilhar"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "Copiar para partilhar no Facebook"
+
+#~ msgid "Tweet It"
+#~ msgstr "Carregue aqui para partilhar no Twitter"
+
+#~ msgid "Pin It"
+#~ msgstr "Clique para partilhar no Pinterest"
+
+#~ msgid "Post on Tumblr"
+#~ msgstr "Clique para partilhar no Tumblr"
+
+#~ msgid "Share on Google Plus"
+#~ msgstr "Clique para partilhar no Google Plus"
+
+#~ msgid "Share on LinkedIn"
+#~ msgstr "Clique para partilhar no LinkedIn"
+
+#~ msgid "Continue reading &rarr;"
+#~ msgstr "Continuar a ler &rarr;"
+
+#~ msgid "Iceberg &mdash; Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Displays your latest Instagram photos."
+#~ msgstr "Exibe o mais recente feed do Instagram."
+
+#~ msgid "Title:"
+#~ msgstr "Título:"
+
+#~ msgid "Username:"
+#~ msgstr "Nome de utilizador:"
+
+#~ msgid "Number of photos:"
+#~ msgstr "Quantidade de fotos:"
+
+#~ msgid "Columns:"
+#~ msgstr "Colunas:"
+
+#~ msgid "Unable to communicate with Instagram."
+#~ msgstr "Incapaz de comunicar com o Instagram"
+
+#~ msgid "Instagram did not return a 200."
+#~ msgstr "Instagram não retornou uma 200."
+
+#~ msgid "Instagram has returned invalid data."
+#~ msgstr "Instagram retornou dados inválidos."
+
+#~ msgid "Instagram did not return any images."
+#~ msgstr "Instagram não encontrou nenhuma imagem."
+
+#~ msgid "Iceberg &mdash; Recent Posts"
+#~ msgstr "Artigos recentes com fotos"
+
+#~ msgid "Use this widget to list your recent posts."
+#~ msgstr "Use este widget para mostrar as suas posts recentes com fotos."
+
+#~ msgid "date"
+#~ msgstr "data"
+
+#~ msgid "number of comments"
+#~ msgstr "número de comentários"
+
+#~ msgid "random"
+#~ msgstr "aleatório"
+
+#~ msgid "Recent Posts"
+#~ msgstr "Artigos recentes"
+
+#~ msgid "Untitled Post"
+#~ msgstr "Sem título"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "Número de artigos a apresentar:"
+
+#~ msgid "Order by:"
+#~ msgstr "Ordenar por:"
+
+#~ msgid "All Categories"
+#~ msgstr "Todas as Categorias"
+
+#~ msgid "Tags (separated by commas):"
+#~ msgstr "Etiquetas (separadas por vírgulas):"
+
+#~ msgid "Display post date?"
+#~ msgstr "Mostrar a data do artigo?"
+
+#~ msgctxt "Roboto font: on or off"
+#~ msgid "on"
+#~ msgstr "on"
+
+#~ msgid ""
+#~ "You may use these HTML tags and attributes: a[href,title], strong, b, em, "
+#~ "i, p, span, br"
+#~ msgstr ""
+#~ "Você deve usar HTML Tópicos e atributos: a[href,title], strong, b, em, i, "
+#~ "p, span, br"
+
+#~ msgid "Background Size"
+#~ msgstr "Tamanho do Fundo"
+
+#~ msgid "Auto"
+#~ msgstr "Automóvel"
+
+#~ msgid "Cover"
+#~ msgstr "Página de rosto"
+
+#~ msgid "Contain"
+#~ msgstr "Contém"
+
+#~ msgid "Sidebar Widgets"
+#~ msgstr "Área de widgets"
+
+#~ msgid ", "
+#~ msgstr ", "

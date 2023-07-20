@@ -1,0 +1,984 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Iceberg 2.0\n"
+"POT-Creation-Date: 2019-11-15 14:42+0700\n"
+"PO-Revision-Date: 2019-11-15 16:23+0700\n"
+"Last-Translator: \n"
+"Language-Team: Nord Studio <nordthemes@gmail.com>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e;"
+"_x:1,2c;_nx:1,2,4c;esc_attr_x:1,2c;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:16
+msgid "Page not found"
+msgstr "الصفحة غير موجود"
+
+#: 404.php:26
+msgid "Whoops!"
+msgstr "عذراً!"
+
+#: 404.php:28
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "يبدو أنه لا يوجد شيء هنا. ربما حاول استعمال البحث؟"
+
+#: 404.php:32 template-parts/content-none.php:38
+msgid "Back To Homepage &rarr;"
+msgstr "العودة إلى الصفحة الرئيسية &larr;"
+
+#: classes/class-iceberg-category-form-fields-setup.php:41
+#: classes/class-iceberg-category-form-fields-setup.php:54
+msgid "Color"
+msgstr "لون"
+
+#: comments.php:26
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا توجد أراء حول &ldquo;%2$s&rdquo;"
+msgstr[1] "رأي واحد حول &ldquo;%2$s&rdquo;"
+msgstr[2] "رأيان حول &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s رأي حول &ldquo;%2$s&rdquo;"
+msgstr[4] "%1$s رأي حول &ldquo;%2$s&rdquo;"
+msgstr[5] "%1$s رأي حول &ldquo;%2$s&rdquo;"
+
+#: comments.php:46
+msgid "&larr; Older Comments"
+msgstr "&rarr; التعليقات الأقدم"
+
+#: comments.php:50
+msgid "Newer Comments &rarr;"
+msgstr "التعليقات الأحدث &larr;"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:67
+msgid "Comment"
+msgstr "التعليق"
+
+#: functions.php:60
+msgid "Primary Navigation"
+msgstr "القائمة الأساسية"
+
+#: functions.php:199
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:204
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "‫off"
+
+#: functions.php:209
+msgctxt "Open Sans font: on or off"
+msgid "off"
+msgstr "‫off"
+
+#: functions.php:214
+msgctxt "Cairo font: on or off"
+msgid "off"
+msgstr "‫on"
+
+#: functions.php:219
+msgctxt "Rubik font: on or off"
+msgid "off"
+msgstr "off"
+
+#: functions.php:224
+msgctxt "M PLUS 1p font: on or off"
+msgid "off"
+msgstr "off"
+
+#: functions.php:229
+msgctxt ""
+"Add new subset (greek, cyrillic, devanagari, vietnamese, arabic, hebrew, "
+"japanese)"
+msgid "no-subset"
+msgstr "‫arabic"
+
+#: functions.php:715
+msgid "Widget Area"
+msgstr "منطقة الودجات"
+
+#: functions.php:717
+msgid "Add widgets here to appear in sidebar"
+msgstr "أضف الودجات هنا لتظهر في الشريط الجانبي."
+
+#: functions.php:738
+msgctxt "placeholder"
+msgid "Search"
+msgstr "بحث &hellip;"
+
+#: functions.php:738
+msgctxt "title tag"
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: functions.php:823
+msgid "Name"
+msgstr "الاسم"
+
+#: functions.php:828
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: functions.php:833
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+#: functions.php:846
+msgid "Category:"
+msgstr "التصنيف:"
+
+#: functions.php:850
+msgid "Author:"
+msgstr "الكاتب:"
+
+#: image.php:52 template-parts/content-gallery.php:79
+#: template-parts/content-page-gallery.php:38
+#: template-parts/content-page-video.php:27 template-parts/content-page.php:23
+#: template-parts/content-video.php:58 template-parts/content.php:59
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: image.php:65
+msgid "&larr; Previous Image"
+msgstr "‏&rarr; الصورة السابقة"
+
+#: image.php:66
+msgid "Next Image &rarr;"
+msgstr "الصورة التالية &larr;"
+
+#: inc/customizer.php:21
+msgid "Site Description"
+msgstr "وصف الموقع"
+
+#: inc/customizer.php:44
+msgid "Display Site Title"
+msgstr "عرض اسم الموقع"
+
+#: inc/customizer.php:62
+msgid "Tagline"
+msgstr "النص تحت شعار الموقع"
+
+#: inc/customizer.php:63 inc/customizer.php:673
+msgid ""
+"You may use these HTML tags and attributes: a[href,title,target], strong, b, "
+"em, i, p, span, br, img[src,title,alt]"
+msgstr ""
+"يمكنك استخدام أكواد HTML والخصائص التالية: a[href,title], strong, b, em, i, "
+"p, span, br"
+
+#: inc/customizer.php:84
+msgid "Size"
+msgstr "الحجم"
+
+#: inc/customizer.php:104
+msgid "Margin Bottom"
+msgstr "الهامش السفلي"
+
+#: inc/customizer.php:117
+msgid "Layout"
+msgstr "الشكل العام"
+
+#: inc/customizer.php:133 inc/customizer.php:208
+msgid "Sidebar"
+msgstr "موقع الشريط الجانبي"
+
+#: inc/customizer.php:136
+msgid "Right (default)"
+msgstr "يمين (افتراضي)"
+
+#: inc/customizer.php:136
+msgid "Left (default)"
+msgstr "يسار (الافتراضي)"
+
+#: inc/customizer.php:137
+msgid "Left"
+msgstr "يسار"
+
+#: inc/customizer.php:137
+msgid "Right"
+msgstr "يمين"
+
+#: inc/customizer.php:147
+msgid "Colors"
+msgstr "لون"
+
+#: inc/customizer.php:152 inc/customizer.php:227
+msgid "Background"
+msgstr "لون الخلفية"
+
+#: inc/customizer.php:160
+msgid "Site Identity"
+msgstr "هوية الموقع"
+
+#: inc/customizer.php:179
+msgid "Site Title"
+msgstr "اسم الموقع"
+
+#: inc/customizer.php:199
+msgid "Social Icons"
+msgstr "أيقونات المواقع الإجتماعية"
+
+#: inc/customizer.php:247
+msgid "Divider"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "Text"
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer.php:307 inc/customizer.php:355
+msgid "Links"
+msgstr ""
+
+#: inc/customizer.php:327 inc/customizer.php:375
+msgid "Links (hover)"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Content Area"
+msgstr ""
+
+#: inc/customizer.php:395
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer.php:415
+msgid "Buttons (hover)"
+msgstr ""
+
+#: inc/customizer.php:435
+msgid "Buttons Text"
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "Category"
+msgstr ""
+
+#: inc/customizer.php:464
+msgid "Other Colors"
+msgstr "الألوان الأخرى"
+
+#: inc/customizer.php:482
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer.php:502
+msgid "Text Selection"
+msgstr ""
+
+#: inc/customizer.php:514
+msgid "Titles & Headings"
+msgstr "العناوين والميتا"
+
+#: inc/customizer.php:528
+msgid "Sticky post"
+msgstr "المقالات المثبتة"
+
+#: inc/customizer.php:530
+msgid "Default: &laquo;Featured&raquo;"
+msgstr "افتراضي‪:‬ مميزة"
+
+#: inc/customizer.php:544
+msgid "Read More"
+msgstr "أكمل القراءة"
+
+#: inc/customizer.php:546
+msgid "Default: &laquo;Read More&raquo;"
+msgstr "افتراضي‪:‬ أكمل القراءة"
+
+#: inc/customizer.php:554
+msgid "Post Options"
+msgstr "خيارات التدوينة"
+
+#: inc/customizer.php:568
+msgid "Display categories"
+msgstr "فئة عرض"
+
+#: inc/customizer.php:582
+msgid "Display post date"
+msgstr "عرض تاريخ المقال"
+
+#: inc/customizer.php:596
+msgid "Display tags list"
+msgstr "عرض الكلمات الشائعة"
+
+#: inc/customizer.php:610 inc/customizer.php:647
+msgid "Display share buttons"
+msgstr "عرض أزرار المشاركة"
+
+#: inc/customizer.php:624
+msgid "Display author"
+msgstr "عرض اسم المؤلف"
+
+#: inc/customizer.php:633
+msgid "Page Options"
+msgstr "خيارات الصفحة"
+
+#: inc/customizer.php:656
+msgid "Footer"
+msgstr "التذييل"
+
+#: inc/customizer.php:672
+msgid "Copyright"
+msgstr "حقوق التأليف"
+
+#: inc/customizer.php:683
+msgid "Other Options"
+msgstr "اعدادات أخرى"
+
+#: inc/customizer.php:697
+msgid "Show preloader"
+msgstr ""
+
+#: inc/template-tags.php:119
+#, php-format
+msgctxt "Post date"
+msgid "Posted on %s"
+msgstr "نشر بتاريخ: %s"
+
+#: inc/template-tags.php:126
+#, php-format
+msgctxt "Post author"
+msgid "by %s"
+msgstr "بواسطة  %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+#: inc/tgmpa/class-tgm-plugin-activation.php:912
+#: inc/tgmpa/class-tgm-plugin-activation.php:2618
+#: inc/tgmpa/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#: inc/tgmpa/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1019
+#: inc/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1206
+#: inc/tgmpa/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:62
+msgid "Nord Recent Posts Widget"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:73
+msgid "Nord Share and Follow Buttons"
+msgstr ""
+
+#: inc/tgmpa/tgmpa.php:84
+msgid "Smash Balloon Social Photo Feed (Instagram)"
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+#: single.php:25
+msgid "You might also like"
+msgstr "قد يعجبك ايضاً"
+
+#: single.php:39
+msgid "Next post"
+msgstr "المقالة التالية"
+
+#: single.php:41
+msgid "Previous post"
+msgstr "المقالة السابقة"
+
+#: template-parts/author-bio.php:12
+#, php-format
+msgid "Published by %s"
+msgstr "نُشرت بواسطة %s"
+
+#: template-parts/author-bio.php:30
+#, php-format
+msgid "View all posts by %s &rarr;"
+msgstr "عرض جميع المواضيع التي كتبها %s &larr;"
+
+#: template-parts/content-gallery.php:47 template-parts/content-video.php:26
+#: template-parts/content.php:27
+msgid "Categories"
+msgstr "التصنيفات"
+
+#: template-parts/content-gallery.php:76 template-parts/content-video.php:55
+#: template-parts/content.php:56
+msgid "Continue reading"
+msgstr "متابعة القراءة"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: template-parts/content-none.php:27
+msgid "Ready to publish your first post?"
+msgstr "هل أنت على استعداد لنشر مقالتك الأولى؟"
+
+#: template-parts/content-none.php:27
+msgid "Get started here"
+msgstr "ابدأ من هنا"
+
+#: template-parts/content-none.php:32
+msgid "No Results Found"
+msgstr "لا توجد نتائج"
+
+#: template-parts/content-none.php:34
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"عذرا، لا يوجد شيء يتطابق مع كلمات البحث التي استعملتها، المرجو المحاولة من "
+"جديد باستعمال كلمات مفتاحية أخرى."
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "يبدو أنه لا يمكن إيجاد ما تبحث عنه. قد تفيدك خاصية البحث."
+
+#~ msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+#~ msgid "no-subset"
+#~ msgstr "no-subset"
+
+#~ msgid "Post author"
+#~ msgstr "الكاتب"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Google Plus"
+#~ msgstr "Google Plus"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Vkontakte"
+#~ msgstr "Vkontakte"
+
+#~ msgid "Dribbble"
+#~ msgstr "Dribbble"
+
+#~ msgid "Behance"
+#~ msgstr "Behance"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Medium"
+#~ msgstr "Medium"
+
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+#~ msgid "Github"
+#~ msgstr "Github"
+
+#~ msgid "YouTube"
+#~ msgstr "YouTube"
+
+#~ msgid "SoundCloud"
+#~ msgstr "SoundCloud"
+
+#~ msgid "Previous Image"
+#~ msgstr "الصورة السابقة"
+
+#~ msgid "Next Image"
+#~ msgstr "الصورة التالية"
+
+#~ msgid "Logo Image"
+#~ msgstr "صورة اللوجو"
+
+#~ msgid "Max width (px)"
+#~ msgstr "الحد الأقصى للعرض (px)"
+
+#~ msgid "Margin bottom (px)"
+#~ msgstr "الهامش السفلي (px)"
+
+#~ msgid "Link color"
+#~ msgstr "لون الرابط"
+
+#~ msgid "Link color on hover"
+#~ msgstr "لون الرابط (عندما تحوم فوق)"
+
+#~ msgid "Button Color"
+#~ msgstr "لون الزر"
+
+#~ msgid "Button Color on Hover"
+#~ msgstr "لون الزر (عندما تحوم فوق)"
+
+#~ msgid "Button Text Color"
+#~ msgstr "لون نص الزر"
+
+#~ msgid "Category color"
+#~ msgstr "لون التصنيف"
+
+#~ msgid "Social Profiles"
+#~ msgstr "الشبكات الإجتماعية"
+
+#~ msgid "Bloglovin"
+#~ msgstr "Bloglovin"
+
+#~ msgid "500px"
+#~ msgstr "500px"
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgid "Rss"
+#~ msgstr "Rss"
+
+#~ msgid "Share Buttons"
+#~ msgstr "أزرار المشاركة"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS مخصص"
+
+#~ msgid "Featured"
+#~ msgstr "مميزة"
+
+#~ msgid "Share"
+#~ msgstr "شاركها"
+
+#~ msgid "Share on Facebook"
+#~ msgstr "انقر للمشاركة على فيسبوك"
+
+#~ msgid "Tweet It"
+#~ msgstr "اضغط للمشاركة على تويتر"
+
+#~ msgid "Pin It"
+#~ msgstr "اضغط للمشاركة على Pinterest"
+
+#~ msgid "Post on Tumblr"
+#~ msgstr "اضغط للمشاركة على Tumblr"
+
+#~ msgid "Share on Google Plus"
+#~ msgstr "اضغط للمشاركة على Google+"
+
+#~ msgid "Share on LinkedIn"
+#~ msgstr "اضغط لتشارك على LinkedIn"
+
+#~ msgid "Continue reading &rarr;"
+#~ msgstr "تابع القراءة &larr;"
+
+#~ msgid "Iceberg &mdash; Instagram"
+#~ msgstr "Iceberg &mdash; Instagram"
+
+#~ msgid "Displays your latest Instagram photos."
+#~ msgstr "عرض أحدث صور انستاجرام"
+
+#~ msgid "Title:"
+#~ msgstr "العنوان:"
+
+#~ msgid "Username:"
+#~ msgstr "إسم المستخدم:"
+
+#~ msgid "Number of photos:"
+#~ msgstr "عدد الصور:"
+
+#~ msgid "Columns:"
+#~ msgstr "أعمدة:"
+
+#~ msgid "Unable to communicate with Instagram."
+#~ msgstr "غير قادر على التواصل مع إينستقرام."
+
+#~ msgid "Instagram did not return a 200."
+#~ msgstr "لم الانستقرام لن يعود 200."
+
+#~ msgid "Instagram has returned invalid data."
+#~ msgstr "إنستغرام أعاد البيانات الغير صالحة"
+
+#~ msgid "Instagram did not return any images."
+#~ msgstr "إنستغرام لم يعد أي صور"
+
+#~ msgid "Iceberg &mdash; Recent Posts"
+#~ msgstr "المقالات الأخيرة مع الصور"
+
+#~ msgid "Use this widget to list your recent posts."
+#~ msgstr "استخدم هذا الودجت لعرض قائمة أحدث المقالات."
+
+#~ msgid "Recent Posts"
+#~ msgstr "أحدث المقالات"
+
+#~ msgid "Untitled Post"
+#~ msgstr "بدون عنوان"
+
+#~ msgid "Number of posts to show:"
+#~ msgstr "عدد المقالات:"
+
+#~ msgid "All Categories"
+#~ msgstr "كل التصنيفات:"
+
+#~ msgid "Tags (separated by commas):"
+#~ msgstr "الوسوم (مفرقة بفواصل)‪:‬"
+
+#~ msgid "Display post date?"
+#~ msgstr "عرض تاريخ المقالة؟"
+
+#~ msgctxt "Roboto font: on or off"
+#~ msgid "on"
+#~ msgstr "off"
+
+#~ msgid ""
+#~ "You may use these HTML tags and attributes: a[href,title], strong, b, em, "
+#~ "i, p, span, br"
+#~ msgstr ""
+#~ "يمكنك استخدام أكواد HTML والخصائص التالية: a[href,title], strong, b, em, "
+#~ "i, p, span, br"
+
+#~ msgid "Background Size"
+#~ msgstr "حجم الخلفية"
+
+#~ msgid "Auto"
+#~ msgstr "تلقائي"
+
+#~ msgid "Cover"
+#~ msgstr "الغلاف"
+
+#~ msgid "Contain"
+#~ msgstr "يحتوي"
+
+#~ msgid "Sidebar Widgets"
+#~ msgstr "المربع الجانبي الرئيسي"
+
+#~ msgid ", "
+#~ msgstr ", "
